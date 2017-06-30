@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Lint this file",
+        "command": "bslint:run"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "BSLint-atom",
+          "submenu": [
+            {
+                "label": "Lint this file",
+                "command": "bslint:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

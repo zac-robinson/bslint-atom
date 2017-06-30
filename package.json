@@ -1,0 +1,15 @@
+{
+  "name": "bslint-atom",
+  "main": "./lib/bslint",
+  "version": "0.0.1",
+  "description": "An Atom plugin to run the BSLint tool",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "bslint:run"
+  },
+  "repository": "https://github.com/zac-robinson/bslint-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

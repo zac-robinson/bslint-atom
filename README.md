@@ -1,2 +1,3 @@
-# bslint-atom
-A plugin for the Atom editor to run the BSLint tool
+# BSLint Atom package
+
+An Atom plugin to run the BSLint tool.

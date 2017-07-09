@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "BSLint-atom",
+          "label": "bslint",
           "submenu": [
             {
                 "label": "Lint this file",
